@@ -1,4 +1,4 @@
-t request = require('request');
+const request = require('request');
 const { expect } = require('chai');
 
 describe('API integration test', () => {
